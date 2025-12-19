@@ -1,0 +1,5 @@
+{
+  "name": "ZenFinance AI",
+  "description": "A minimalist, AI-powered personal finance manager that helps you track spending and get intelligent budgeting advice through Gemini.",
+  "requestFramePermissions": []
+}
